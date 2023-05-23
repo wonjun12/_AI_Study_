@@ -1,0 +1,44 @@
+AWS 자격증
+빅데이터분석기사
+
+시스템소프트웨어 : 윈도우, 리눅스 데이터베이스 웹서버 개발
+관리자 :백오피스
+
+blockenters@gmail.com
+
+데이터스트록션
+
+.unique()
+.nunique()
+
+
+https://streamlit.io/
+https://www.anaconda.com/download
+
+- 주피터 : 데이터 분석에 최적화 되어있음
+   - 데이터 분석이 끝나면 다른 곳에 옮겨야함
+- 
+
+CI : 합쳐진다.
+
+linux - 설치 후 (파이썬 3.9)
+ OS - 설치
+ 아나콘다 - 설치
+ 
+
+가상 환경 만들기
+ - 환경 통일을 위해 만듬 (서버 환경과 동일하게 하기 위해)
+ - 아나콘다에서 가상환경 만들기 (VSCode에서 명령어로 아나콘다를 거쳐서 하면됨)
+
+conda에 접속후 streamlit 설치
+pip install streamlit
+ - 설치 후 아직 사용할 수 없음
+ -> add_bash로 접속해야 사용할 수 있음
+
+streamlit run app.py
+ -> 실행
+
+=> 변화를 줄때마다 변경가능하게도 할 수 있다..
+
+
+https://github.com/blockenters/yh-k4
