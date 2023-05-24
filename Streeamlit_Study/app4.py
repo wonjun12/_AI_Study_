@@ -47,7 +47,21 @@ def main():
     
     if selected_lang == 'Python':
         st.write('파이썬을 선택했다니!')
+    # ======================================================================= #
+    # 데이터 프레임의 컬럼이름을 보여주고,
+    # 유저가 컬럼을 선택하면,
+    # 해당 컬럼만 가져와서 데이터 프레임을 보여주고 싶다.
 
+    columns_list = st.multiselect('컬럼을 선택하세요.', df.columns)
+    print(columns_list)
+    if columns_list != []:
+        st.dataframe(df[columns_list])
+    
+    age = st.slider('나이', min_value=10, max_value=110, value=50)
+    st.text('나이는' + str(age) + '이다')
+
+    with st.expander('hello'):
+        st.text('안녕')
 
 if __name__ == '__main__':
     main()
