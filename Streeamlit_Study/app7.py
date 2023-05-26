@@ -1,7 +1,7 @@
-import streamlit as st # 프레임 워크
+import streamlit as st
+
 import pandas as pd
-# 프레임워크란? 
-# 툴에서 정해진 규칙에 따라 사용가능한 것
+
 from datetime import datetime
 
 import os # 경로 탐색
