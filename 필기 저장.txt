@@ -47,3 +47,11 @@ https://github.com/blockenters/yh-k4
 그래프 차트 오픈소스
 https://plotly.com/python/
 https://altair-viz.github.io/
+
+다음주 : 중간플젝
+- 데이터 수집 사이트 확인
+- 기획해서 분석
+- 인공지능 개발이 가능하면, 인공지능 만들기
+- 앱 대시보드 화면 기획 / 개발
+- 2~3개 만들면 좋겟다.
+- 6/8 ~ 6/9 발표
