@@ -1,3 +1,6 @@
+https://github.com/HJ-Rich/java-baseball-precourse/tree/as#%EC%A0%95%EB%8B%B5-%EC%9D%B4%ED%9B%84-%EC%B2%98%EB%A6%AC
+https://www.freecodecamp.org/korean/news/gisheobeu-peurojegteue-rideumi-paileul-jal-jagseonghaneun-bangbeob/
+https://shields.io/
 - 기능 
   - github CI/CD action를 통해 ec2 자동 배포 설정
   - 메뉴 기능
@@ -31,6 +34,10 @@
      - 나이 돈
         - 나이에 따라 가장 많이 사기를 당한 금액을 보여줍니다.
 
+Please commit your changes or stash them before you merge.
+ : https://goddaehee.tistory.com/253
+
+https://sundries-in-myidea.tistory.com/102
 
 - 프로젝트 문제점 및 해결
 1. 파일의 데이터가 많아 크기가 너무 커졌다.- 서버 다운됨

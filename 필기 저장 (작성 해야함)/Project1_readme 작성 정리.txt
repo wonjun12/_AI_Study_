@@ -21,6 +21,11 @@ https://shields.io/
      - 원하는 날짜 범위의 해외, 국내 여행의 검색량을 예측하고, 순위를 나타냅니다.
    - Data Upload
      - 최신 데이터가 추가 되거나, 과거 없는 데이터가 존재할 시 쉽게 정보 추가가 가능합니다.
+
+Please commit your changes or stash them before you merge.
+ : https://goddaehee.tistory.com/253
+
+https://sundries-in-myidea.tistory.com/102
     
 프로젝트 문제들의 해결
 1. 저장된 csv파일을 불러오니 날짜데이터가 String으로 되있더라
